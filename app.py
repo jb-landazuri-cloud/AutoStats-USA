@@ -14,7 +14,7 @@ if hist_button:  # Si se hace click en el Botón
     st.write('Histograma de Anuncios de Venta de Coches')
 
     # Se crea un histograma
-    fig = px.histogram(df_vehicles_us, x="Odometro",
+    fig = px.histogram(df_vehicles_us, x="odometer",
                        title='Histograma de Vehículos en EE.UU.')
 
     # Se muestra un Plotly interactivo del histograma
@@ -22,8 +22,8 @@ if hist_button:  # Si se hace click en el Botón
 
 ####################################################################################################################
 
-    # Creación del Botón del Diagrama de Dispersión
-    disp_button = st.button('Mostrar Diagrama de Dispersión')
+# Creación del Botón del Diagrama de Dispersión
+hist_button = st.button('Mostrar Diagrama de Dispersión')
 
 if hist_button:  # Si se hace click en el Botón
     # Se muestra este mensaje
