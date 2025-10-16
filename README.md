@@ -4,4 +4,4 @@ Esta app sirve para generar dos diferentes tipos de estadisticos de los "Anuncio
 1.- Histograma de los Anuncios de Automoviles en USA
 2.- Diagrama de Dispersión de los Anuncios de Automioviles en USA
 
-Condichos diagramas se puede analizar el comportamiento de los Anuncios de Automioviles en USA respecto a...
+Con dichos diagramas se puede analizar los Anuncios de Automioviles en USA y las caracteristicas de los vehiculos anunciados, asi como el modelo del automovil, su precio, su tipo de transmisión, etc.
