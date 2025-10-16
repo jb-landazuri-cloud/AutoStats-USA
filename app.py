@@ -30,8 +30,8 @@ if hist_button:  # Si se hace click en el Botón
     st.write('Diagrama de Dispersión de Anuncios de Venta de Coches')
 
     # Se crea el Diagrama de Dispersión
-    fig = px.scatter(df_vehicles_us, x='columna_x', y='columna_y',
-                     title='Diagrama de Dispersión de Vehículos en EE.UU.')
+    fig = px.scatter(df_vehicles_us, x='price', y='odometer',
+                     title='Diagrama de Dispersión de Vehículos en EE.UU.')
 
     # Se muestra un Plotly interactivo del Diagrama de Dispersión
     st.plotly_chart(fig, use_container_width=True)
