@@ -1,4 +1,4 @@
-# 7mo_proyecto
+# AutoStats-USA
 Esta app sirve para generar dos diferentes tipos de estadisticos de los "Anuncios de Automioviles en USA" cuando el usuario le de click al boton correspondiente a cada uno, dichos diagramas posibles por el momento son de ser generados son:
 
 1.- Histograma de los Anuncios de Automoviles en USA
