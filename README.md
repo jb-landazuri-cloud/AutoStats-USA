@@ -35,3 +35,8 @@ Durante el desarrollo de este proyecto, aprendí a:
 - Utilizar pandas para manipular y analizar datos
 - Crear visualizaciones interactivas con plotly_express
 - Desarrollar aplicaciones web con streamlit
+1.- Histograma de los Anuncios de Automoviles en USA
+
+2.- Diagrama de Dispersión de los Anuncios de Automoviles en USA
+
+Con dichos diagramas se puede analizar los Anuncios de Automioviles en USA y las caracteristicas de los vehiculos anunciados, asi como el modelo del automovil, su precio, su tipo de transmisión, etc.
