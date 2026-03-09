@@ -1,8 +1,8 @@
 # AutoStats-USA
 Una aplicación web para analizar los anuncios de automóviles en USA, generando estadísticos y visualizaciones interactivas.
 
-![Hist](hist.png)
-![Disp](disp.png)
+![Hist](hist.jpg)
+![Disp](disp.jpg)
 
 ## Descripción
 
